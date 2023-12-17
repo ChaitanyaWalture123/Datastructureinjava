@@ -42,7 +42,7 @@ class DoublyLinked {
 			}
 			System.out.println("Do you want to add data");
 			n=s.nextInt();
-		}
+			
 		while(n==1);
 		}
 	
